@@ -6,3 +6,4 @@ pytest-cov>=2.6.1
 coveralls>=1.6.0
 black
 pre-commit
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
