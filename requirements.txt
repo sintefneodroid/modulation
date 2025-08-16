@@ -13,3 +13,5 @@ torchaudio
 tensorflow
 pycocotools
 albumentations
+keras>=3.11.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
